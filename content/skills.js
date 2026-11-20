@@ -4,36 +4,29 @@
 
 export const categories = [
     {
-      title: 'Design',
+      title: 'Programming',
       skills: [
-        { name: 'Figma', desc: 'Components, auto layout and design tokens.', icon: 'design' },
-        { name: 'Prototyping', desc: 'Clickable flows and micro-interactions.', icon: 'layout' },
-        { name: 'Wireframing', desc: 'Low-fi sketches to high-fi screens.', icon: 'layout' },
-        { name: 'Design Drafts', desc: 'Quick and dirty designs for testing.', icon: 'layout' },
+        { name: 'C#', desc: 'Main language for game programming.', icon: 'code' },
+        { name: 'C++', desc: 'Basic console programs.', icon: 'code' },
+        { name: 'Java', desc: 'GUI builder and SQL integration via Apache GUI Builder.', icon: 'code' },
+        { name: 'PHP', desc: 'Basic experience and SQL integration.', icon: 'code' },
+        { name: 'MySQL', desc: 'Extensive relational database experience and best practices.', icon: 'code'}
       ],
     },
     {
-      title: 'Research',
+      title: 'Front-end',
       skills: [
-        { name: 'User interviews', desc: 'Finding the real problem before drawing.', icon: 'search' },
-        { name: 'Usability testing', desc: 'Quick rounds with five users.', icon: 'search' },
-      ],
-    },
-    {
-      title: 'Front-end and Cloud',
-      skills: [
-        { name: 'HTML and CSS', desc: 'Turning designs into working pages.', icon: 'code' },
-        { name: 'JavaScript basics', desc: 'Small interactions and form checks.', icon: 'code' },
-        { name: 'AWS fundamentals', desc: 'Learning cloud basics in the club.', icon: 'cloud' },
+        { name: 'HTML and CSS', desc: 'Web dev experience which can be developed into UI experience.', icon: 'code' },
+        { name: 'JavaScript', desc: 'Web dev experience with SQL integration.', icon: 'code' },
       ],
     },
     {
       title: 'Tools',
       skills: [
         { name: 'Git and GitHub', desc: 'Version control and handoff.', icon: 'git' },
-        { name: 'Notion', desc: 'Roadmaps, notes and design docs.', icon: 'tools' },
+        { name: 'Unity', desc: 'Basics of navigating the game engine.', icon: 'tools' },
       ],
     },
   ];
 
-export const skillsSection = { title: 'Skills & Technologies', subtitle: 'The tools and methods I use to design and test ideas.' };
+export const skillsSection = { title: 'Skills & Technologies', subtitle: 'The tools and methods I have experience with.' };
