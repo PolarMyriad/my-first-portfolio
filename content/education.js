@@ -1,8 +1,8 @@
 // EDIT THIS FILE: Change text in quotes. To add an item, copy an existing item and keep its commas and brackets.
 
 export const education = [
-    { date: '2019 - 2023', title: 'BS in Interactive Design', org: 'Cloud City University', desc: "Dean's lister and president of the UI Design Club." },
-    { date: '2026', title: 'AWS Learning Club', org: 'Member', desc: 'Workshop on building and deploying a portfolio with GitHub and Vercel.' },
+    { date: '2017 - 2023', title: 'High School', org: 'Philippine Science High School - Central Luzon Campus', desc: "STEM track. Director's Lister in Grade 12." },
+    { date: '2023 -', title: 'Undergraduate College', org: 'San Beda University Manila', desc: 'Computer Science student, consistent Deans Lister.' },
   ];
 
 export const experience = [
