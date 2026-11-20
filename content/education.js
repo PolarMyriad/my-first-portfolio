@@ -11,8 +11,7 @@ export const experience = [
   ];
 
 export const certifications = [
-    { title: 'UX Research Basics', detail: 'Cloud Design Academy - 2024' },
-    { title: 'Accessible Design Essentials', detail: 'Open Design School - 2025' },
+    { title: 'Certiport Database Certification', detail: '2024' },
   ];
 
-export const educationSection = { title: 'Education & Experience', subtitle: 'Where I have studied and what I have made so far.' };
+export const educationSection = { title: 'Education & Experience', subtitle: 'Where I have studied and what I have made so far!' };
