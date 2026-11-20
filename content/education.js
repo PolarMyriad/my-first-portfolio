@@ -6,13 +6,11 @@ export const education = [
   ];
 
 export const experience = [
-    { date: '2024 - Present', title: 'Junior UI/UX Designer', org: 'StarHop Labs', desc: 'Design three product flows and maintain the shared component library.' },
-    { date: '2023 - 2024', title: 'UI/UX Design Intern', org: 'Moonlight Studio', desc: 'Designed 20+ screens and ran 8 usability sessions.' },
+    { date: 'N/A', title: 'No work experience yet.', org: 'N/A', desc: 'N/A' },
   ];
 
 export const certifications = [
-    { title: 'UX Research Basics', detail: 'Cloud Design Academy - 2024' },
-    { title: 'Accessible Design Essentials', detail: 'Open Design School - 2025' },
+    { title: 'Certiport Database Certification', detail: '2024' },
   ];
 
-export const educationSection = { title: 'Education & Experience', subtitle: 'Where I have studied and what I have made so far.' };
+export const educationSection = { title: 'Education & Experience', subtitle: 'Where I have studied and what I have made so far!' };
