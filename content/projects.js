@@ -5,32 +5,32 @@
 
 export const projects = [
     {
-      category: 'Web / UI/UX',
-      title: 'CloudNest Onboarding',
-      description: 'Redesigned the first-run experience of a cloud learning platform, cutting setup steps from nine to four.',
-      tags: ['Figma', 'Prototype', 'Usability'],
+      category: 'PC / Video Game',
+      title: 'WRG-APES',
+      description: '"Arahuyo Physics Education Simulator", a short serious physics education game for science high school students.',
+      tags: ['Unity', 'C#', 'Video Game'],
       color: 'blue',
       icon: 'star',
       projectUrl: '',
     },
     {
-      category: 'Mobile / UI',
-      title: 'Carrot Tracker',
-      description: 'A gentle habit app that rewards small daily wins with a growing carrot garden.',
-      tags: ['Mobile', 'Illustration', 'Motion'],
+      category: 'PC / Video Game',
+      title: 'Dead Line',
+      description: 'A short horror escape room video game where the player is tormented by his own regret.',
+      tags: ['Unity', 'C#', 'Video Game'],
       color: 'pink',
       icon: 'heart',
       projectUrl: '',
     },
     {
-      category: 'Design system',
-      title: 'StarHop Design System',
-      description: 'A shared library of 60 components and tokens that keeps three product teams on the same page.',
-      tags: ['Tokens', 'Accessibility', 'Docs'],
+      category: 'PC / Video Game',
+      title: 'Shape Escape',
+      description: 'A variety video game about eliminating shapes via various fun means. Private Repo Link.',
+      tags: ['Unity', 'C#', 'Video Game'],
       color: 'green',
       icon: 'plus',
-      projectUrl: '',
+      projectUrl: 'https://github.com/PolarMyriad/ShapeEscape',
     },
   ];
 
-export const projectsSection = { title: 'Featured Projects', subtitle: 'A few stories from my sketchbook.' };
+export const projectsSection = { title: 'Featured Projects', subtitle: 'All the games I have worked on so far.' };
